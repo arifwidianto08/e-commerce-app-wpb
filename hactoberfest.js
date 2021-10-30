@@ -1,1 +1,1 @@
-console.log("Hactoberfest 2021")
+console.log("Hacktoberfest 2021")
